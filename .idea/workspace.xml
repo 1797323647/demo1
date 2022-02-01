@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cff0cd90-1639-474f-a95d-61e7a097d8df" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_11_0__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitmoudel01/src/GitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/BufferWriterTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/Date.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/DateOut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/ZhuanHuan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/ZhuanHuan2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/demo1/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/demo1/FileInputTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/demo1/FileOutputTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/demo2/BufferInputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/demo2/BufferReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/demo2/FileInputStreamReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/newPhoto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/newPhoto2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/BufferWriterTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/Date.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/DateOut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/ZhuanHuan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/ZhuanHuan2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/demo1/CopyFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/demo1/FileInputTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/demo1/FileOutputTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/demo2/BufferInputTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/demo2/BufferReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/demo2/FileInputStreamReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/newPhoto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/newPhoto2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/logback/com/houcong/MainPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/logback/com/houcong/pojo/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/logback/com/houcong/pojo/Merchants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/logback/com/houcong/pojo/Movie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/logback/com/houcong/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/logback/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket/demo1/socket/GetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket/demo1/socket/OutTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket/demo1/socket2where/GetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket/demo1/socket2where/OutTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket/demo2/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket/demo2/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket/demo3/LiaoTianShi/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket/demo3/LiaoTianShi/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket/demo3/LiaoTianShiDuoFa/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket/demo3/LiaoTianShiDuoFa/LiaoTianThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket/demo3/LiaoTianShiDuoFa/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/annoymous/demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/annoymous/demo2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/annoymous/demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/annoymous/eat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/annoymous/student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/annoymous/swim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo1/SingleInstance1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo1/SingleInstance2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo1/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo2_extends/People.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo2_extends/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo2_extends/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo2_extends/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo3/ArraysSort$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo3/ArraysSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo3/StringBuilderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo3/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo3/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo4/ArraysDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo4/MapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo4/MapTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo5/IoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo6/Money.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo6/OutMoney.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo6/Thread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo6/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo6/ThreadTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo6/ThreadTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo7/Phone$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo7/Phone$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo7/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo8/ThreadPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo8/TimerTest1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo8/TimerTest1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo8/TimerTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo8/TimerTest2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo8/TimerTest2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/static/demo8/TimerTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/src/demo1/socket/GetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/src/demo1/socket/OutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/src/demo1/socket2where/GetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/src/demo1/socket2where/OutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/src/demo2/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/src/demo2/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/src/demo3/LiaoTianShi/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/src/demo3/LiaoTianShi/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/src/demo3/LiaoTianShiDuoFa/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/src/demo3/LiaoTianShiDuoFa/LiaoTianThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/src/demo3/LiaoTianShiDuoFa/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Test.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/lib/commons-io-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/annoymous/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/annoymous/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo1/SingleInstance1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo1/SingleInstance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo2_extends/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo2_extends/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo2_extends/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo2_extends/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo3/ArraysSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo3/StringBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo4/ArraysDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo4/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo5/IoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo6/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo6/OutMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo6/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo6/ThreadTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo6/ThreadTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo7/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo8/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo8/TimerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/src/demo8/TimerTest2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23M4VJi17Psc6ihGj8OwW7WOOGh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.1527495" />
+    <property name="project.structure.side.proportion" value="0.3309266" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\itheima\static\lib" />
+      <recent name="D:\IdeaProjects\itheima\static\src" />
+      <recent name="D:\IdeaProjects\itheima\logback\lib" />
+      <recent name="D:\IdeaProjects\itheima\logback\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Customer">
+    <configuration name="Customer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3.LiaoTianShi.Customer" />
+      <module name="socket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo3.LiaoTianShi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo2.Customer" />
+      <module name="socket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Customer" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3.LiaoTianShiDuoFa.Customer" />
+      <module name="socket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo3.LiaoTianShiDuoFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Customer" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3.LiaoTianShiDuoFa.Customer" />
+      <module name="socket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo3.LiaoTianShiDuoFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3.LiaoTianShi.Service" />
+      <module name="socket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo3.LiaoTianShi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3.LiaoTianShiDuoFa.Service" />
+      <module name="socket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo3.LiaoTianShiDuoFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Customer" />
+        <item itemvalue="应用程序.Service (2)" />
+        <item itemvalue="应用程序.Customer" />
+        <item itemvalue="应用程序.Customer (1)" />
+        <item itemvalue="应用程序.Service (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="cff0cd90-1639-474f-a95d-61e7a097d8df" name="变更" comment="" />
+      <created>1641530649022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641530649022</updated>
+      <workItem from="1641530650137" duration="57121000" />
+      <workItem from="1642231587014" duration="640000" />
+      <workItem from="1642232536481" duration="1141000" />
+      <workItem from="1642234279489" duration="15072000" />
+      <workItem from="1642401026235" duration="2438000" />
+      <workItem from="1643713150876" duration="810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
